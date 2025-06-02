@@ -1,1 +1,1 @@
-# summer_school_2025
+# Summer school 2025
