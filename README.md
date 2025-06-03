@@ -39,7 +39,7 @@ Mark Chiew (mark.chiew@utoronto.ca)
 
 ### Module 2A – Functional MRI
 
-|| Time           | Session                                            | Speaker/Tutor |
+| Time           | Session                                            | Speaker/Tutor |
 |----------------|----------------------------------------------------|----------------|
 | 10:00 – 11:00  | Lecture 2.1: Introduction to fMRI                 | Lecturer: TBD  |
 | 11:00 – 12:00  | Q&A                                               |                |
