@@ -11,7 +11,7 @@ Trainees, staff and scientists looking to get started in imaging research or the
 The program requires no background in MRI or neuroimaging, although some proficiency with basic programming in MATLAB or Python, and use of command-line tools would be helpful. Participants will be required to bring their own laptop. Module-specific software or requirements will be communicated to registered attendees at least 1 week in advance.
 
 ## Course Materials
-Lectures and tutorial materials for the summer school will be made publicly available here: https://github.com/Sunnybrook-Physical-Sciences-Platform/summer_school_2025
+Lectures and tutorial materials for the summer school will be made publicly available [here](https://github.com/Sunnybrook-Physical-Sciences-Platform/summer_school_2025)
 
 ## Modules Overview:
 ### Structural MRI (August 5, 2025)
@@ -41,6 +41,10 @@ A detailed agenda will be provided to registered attendees, but all modules will
 |12:30 - 14:00| Tutorial 1|
 |14:00 - 14:15| Coffee Break|
 |14:15 - 16:00| Tutorial 2|
+
+
+## Registration
+Please register [here](https://forms.gle/xDBLPXd3W6nR4eJ26)
 
 ## Organizers
 Fa-Hsuan Lin (fahsuan.lin@utoronto.ca)
