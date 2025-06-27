@@ -15,34 +15,30 @@ Lectures and tutorial materials for the summer school will be made publicly avai
 
 ## Modules Overview:
 ### Structural MRI (August 5, 2025)
-
 Topics will include: Introduction to MRI, neuroimaging file formats and image viewers, brain segmentation and structural/anatomical image processing
 
 ### Perfusion MRI (August 13, 2025)
-
 Topics will include: Introduction to perfusion MRI and arterial spin labelling, cerebral blood flow mapping, physiological modelling of perfusion
 
 ### Diffusion MRI (August 18, 2025)
-
 Topics will include: Introduction to diffusion MRI, basic diffusion weighted and diffusion tensor image analysis
 
 ### MR Spectroscopy (August 21, 2025)
-
 Topics will include: Introduction to MR spectroscopy, spectroscopic data analysis and metabolite fitting
 
 ### Functional MRI (August 27, 2025)
-
 Topics will include: Introduction to functional MRI, basic fMRI preprocessing, introduction to task and resting state analysis
 
 The module content is still being developed and subject to change, but the above module content descriptions provide a representative example of the topics that will be covered. Registered attendees will be provided with a detailed agenda prior to the start of the module.
 
 ## Module Schedule:
 A detailed agenda will be provided to registered attendees, but all modules will follow the same basic structure:
-10:00 - 12:00: Lectures and Q&A
-12:00 - 12:30: Lunch
-12:30 - 14:00: Tutorial 1
-14:00 - 14:15: Coffee Break
-14:15 - 16:00: Tutorial 2
+|-------------|-----------------|
+|10:00 - 12:00| Lectures and Q&A|
+|12:00 - 12:30| Lunch |
+|12:30 - 14:00| Tutorial 1|
+|14:00 - 14:15| Coffee Break|
+|14:15 - 16:00| Tutorial 2|
 
 ## Organizers
 Fa-Hsuan Lin (fahsuan.lin@utoronto.ca)
