@@ -33,6 +33,8 @@ The module content is still being developed and subject to change, but the above
 
 ## Module Schedule:
 A detailed agenda will be provided to registered attendees, but all modules will follow the same basic structure:
+
+|Time| Content|
 |-------------|-----------------|
 |10:00 - 12:00| Lectures and Q&A|
 |12:00 - 12:30| Lunch |
