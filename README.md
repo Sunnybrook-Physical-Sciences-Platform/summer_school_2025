@@ -14,19 +14,19 @@ The program requires no background in MRI or neuroimaging, although some profici
 Lectures and tutorial materials for the summer school will be made publicly available [here](https://github.com/Sunnybrook-Physical-Sciences-Platform/summer_school_2025)
 
 ## Modules Overview:
-### Structural MRI (August 5, 2025)
+### [Structural MRI (August 5, 2025)](https://github.com/Sunnybrook-Physical-Sciences-Platform/summer_school_2025/wiki/Structural-MRI)
 Topics will include: Introduction to MRI, neuroimaging file formats and image viewers, brain segmentation and structural/anatomical image processing
 
-### Perfusion MRI (August 13, 2025)
+### [Perfusion MRI (August 13, 2025)](https://github.com/Sunnybrook-Physical-Sciences-Platform/summer_school_2025/wiki/Perfusion-MRI)
 Topics will include: Introduction to perfusion MRI and arterial spin labelling, cerebral blood flow mapping, physiological modelling of perfusion
 
-### Diffusion MRI (August 18, 2025)
+### [Diffusion MRI (August 18, 2025)](https://github.com/Sunnybrook-Physical-Sciences-Platform/summer_school_2025/wiki/Diffusion-MRI)
 Topics will include: Introduction to diffusion MRI, basic diffusion weighted and diffusion tensor image analysis
 
 ### [MR Spectroscopy (August 21, 2025)](https://github.com/Sunnybrook-Physical-Sciences-Platform/summer_school_2025/wiki/Spectroscopic-MRI)
 Topics will include: Introduction to MR spectroscopy, spectroscopic data analysis and metabolite fitting
 
-### Functional MRI (August 27, 2025)
+### [Functional MRI (August 27, 2025)](https://github.com/Sunnybrook-Physical-Sciences-Platform/summer_school_2025/wiki/Functional-MRI)
 Topics will include: Introduction to functional MRI, basic fMRI preprocessing, introduction to task and resting state analysis
 
 The module content is still being developed and subject to change, but the above module content descriptions provide a representative example of the topics that will be covered. Registered attendees will be provided with a detailed agenda prior to the start of the module.
