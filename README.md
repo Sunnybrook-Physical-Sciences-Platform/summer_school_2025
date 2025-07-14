@@ -23,7 +23,7 @@ Topics will include: Introduction to perfusion MRI and arterial spin labelling, 
 ### Diffusion MRI (August 18, 2025)
 Topics will include: Introduction to diffusion MRI, basic diffusion weighted and diffusion tensor image analysis
 
-### MR Spectroscopy (August 21, 2025)
+### [MR Spectroscopy (August 21, 2025)](https://github.com/Sunnybrook-Physical-Sciences-Platform/summer_school_2025/wiki/Spectroscopic-MRI)
 Topics will include: Introduction to MR spectroscopy, spectroscopic data analysis and metabolite fitting
 
 ### Functional MRI (August 27, 2025)
