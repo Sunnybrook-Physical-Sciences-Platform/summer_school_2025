@@ -11,4 +11,4 @@ This tutorial covers basic concepts of image viewing, file types, and registrati
 You will need to download/install the following:
 * [MRIcroGL](https://www.nitrc.org/projects/mricrogl)
 * [FSL](https://fsl.fmrib.ox.ac.uk/fsl/docs/#/install/index)
-* [Datasets used for the demos and exercises](https://doi.org/10.5281/zenodo.16755882).
+* [Datasets used for the demos and exercises](https://doi.org/10.5281/zenodo.16755882)
