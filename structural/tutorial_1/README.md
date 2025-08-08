@@ -7,7 +7,7 @@ This tutorial covers basic concepts of image viewing, file types, and registrati
 * The different coordinate systems used in medical imaging files
 * The basics of image registration including how to use FMRIB's Linear Image Registration Tool (FLIRT)
 
-## Required software and data
+## Required software and data [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16755883.svg)](https://doi.org/10.5281/zenodo.16755882)
 You will need to download/install the following:
 * [MRIcroGL](https://www.nitrc.org/projects/mricrogl)
 * [FSL](https://fsl.fmrib.ox.ac.uk/fsl/docs/#/install/index)
